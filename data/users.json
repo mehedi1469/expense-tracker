@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Test User",
+      "email": "test@example.com",
+      "passwordHash": "$2b$10$bL/jult.YoiNyvn5c11pqewv0QDiQwcV2KXLW.ZHx5gB/n2WW/rLW",
+      "createdAt": "2025-12-09T11:18:36.190Z"
+    },
+    {
+      "id": 2,
+      "name": "Mehedi Hasan",
+      "email": "hasan@gmail.com",
+      "passwordHash": "$2b$10$tLYLLR7C/Mj0vg/SSWMAZ.wCqt2XAuD0NbhxMwfQu9iFzd0e5c0Z6",
+      "createdAt": "2025-12-09T11:23:55.521Z"
+    },
+    {
+      "id": 3,
+      "name": "Md Fuad Hossain Saad",
+      "email": "fuad@gmail.com",
+      "passwordHash": "$2b$10$zR/H8O0599Po01bPTaPVG.NS4aNiXhawh8IQskxyIT0Bzno0sApeS",
+      "createdAt": "2025-12-09T11:25:44.649Z"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "budgets": [
+    {
+      "id": 1,
+      "name": "Total",
+      "amount": "500",
+      "icon": "😀",
+      "userId": 3,
+      "createdAt": "2025-12-09T11:42:05.428Z"
+    }
+  ],
+  "expenses": []
+}
